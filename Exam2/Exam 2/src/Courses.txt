@@ -1,0 +1,9 @@
+class type,  class name , a short description of the class,credits, average time spent(in minutes)
+ComputerScience,Fund of Computer Science II,understanding of software development and logical reasoning,3,35
+ComputerScience,Data Structures and Algorithms,A data structures course is the gateway to the rest of the computer science curriculum,4,55
+Chemistry,Chemistry I,introductory and general chemistry,5,30
+Chemistry,Chemistry II,introductory and general chemistry,5,35
+Math,Introduction to Mathematical Software,introduction to the use of several software packages,3,45
+Math,Probability and Linear Math, understanding of probability and linear algebra,3,50
+English,Public speaking,a speech,3,15
+English,Writing 101,introduction to academic writing,3,25
